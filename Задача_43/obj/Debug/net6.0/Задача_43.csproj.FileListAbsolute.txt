@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\bin\Debug\net6.0\Задача_43.exe
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\bin\Debug\net6.0\Задача_43.deps.json
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\bin\Debug\net6.0\Задача_43.runtimeconfig.json
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\bin\Debug\net6.0\Задача_43.dll
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\bin\Debug\net6.0\Задача_43.pdb
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\obj\Debug\net6.0\Задача_43.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\obj\Debug\net6.0\Задача_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\obj\Debug\net6.0\Задача_43.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\obj\Debug\net6.0\Задача_43.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\obj\Debug\net6.0\Задача_43.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\obj\Debug\net6.0\Задача_43.dll
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\obj\Debug\net6.0\refint\Задача_43.dll
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\obj\Debug\net6.0\Задача_43.pdb
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\obj\Debug\net6.0\Задача_43.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\c#\C#_семинары\c#_seminar_6\ДЗ_6\Задача_43\obj\Debug\net6.0\ref\Задача_43.dll
